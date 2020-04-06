@@ -1,0 +1,13 @@
+D:\Repos\KickStart\KickStart\bin\Debug\netcoreapp3.1\KickStart.exe
+D:\Repos\KickStart\KickStart\bin\Debug\netcoreapp3.1\KickStart.deps.json
+D:\Repos\KickStart\KickStart\bin\Debug\netcoreapp3.1\KickStart.runtimeconfig.json
+D:\Repos\KickStart\KickStart\bin\Debug\netcoreapp3.1\KickStart.runtimeconfig.dev.json
+D:\Repos\KickStart\KickStart\bin\Debug\netcoreapp3.1\KickStart.dll
+D:\Repos\KickStart\KickStart\bin\Debug\netcoreapp3.1\KickStart.pdb
+D:\Repos\KickStart\KickStart\obj\Debug\netcoreapp3.1\KickStart.csprojAssemblyReference.cache
+D:\Repos\KickStart\KickStart\obj\Debug\netcoreapp3.1\KickStart.csproj.CoreCompileInputs.cache
+D:\Repos\KickStart\KickStart\obj\Debug\netcoreapp3.1\KickStart.AssemblyInfoInputs.cache
+D:\Repos\KickStart\KickStart\obj\Debug\netcoreapp3.1\KickStart.AssemblyInfo.cs
+D:\Repos\KickStart\KickStart\obj\Debug\netcoreapp3.1\KickStart.dll
+D:\Repos\KickStart\KickStart\obj\Debug\netcoreapp3.1\KickStart.pdb
+D:\Repos\KickStart\KickStart\obj\Debug\netcoreapp3.1\KickStart.genruntimeconfig.cache
